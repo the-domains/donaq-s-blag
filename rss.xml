@@ -4,7 +4,7 @@
         <description><![CDATA[The Blag of Don AQ]]></description>
         <link>http://blag.attaboy.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 16:07:36 GMT</lastBuildDate>
         <atom:link href="http://blag.attaboy.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The First 100]]></title>
@@ -12,13 +12,6 @@
             <link>http://blag.attaboy.me/the-first-100/index.html</link>
             <guid isPermaLink="false">fb59b0ec-df52-460c-b904-9c7121ffd747</guid>
             <pubDate>Thu, 14 Jan 2016 16:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test Site]]></title>
-            <description><![CDATA[<article><h1>Test Site</h1><p>What's up? This is the first post on my blag on The Grid.</p></article>]]></description>
-            <link>http://blag.attaboy.me/test-site/index.html</link>
-            <guid isPermaLink="false">adb960f6-176c-4704-8e93-00a361f24d33</guid>
-            <pubDate>Mon, 23 Nov 2015 11:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
