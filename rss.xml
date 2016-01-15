@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Blag of Don AQ]]></title>
         <description><![CDATA[The Blag of Don AQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://blag.attaboy.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:28:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 17:35:42 GMT</lastBuildDate>
+        <atom:link href="http://blag.attaboy.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's get this bitch on the road]]></title>
+            <description><![CDATA[<article><h1>Let's get this bitch on the road</h1><p>This blag is currently hosted on The Grid, which is supposed to design your site by artificial intelligence. O RLY?? This is obviously very exciting to a programmer such as myself, for several reasons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bce2608cbab8892cc4213f5d913f1fe9b5f0561.jpg"></article>]]></description>
+            <link>http://blag.attaboy.me/lets-get-this-bitch-on-the-road/index.html</link>
+            <guid isPermaLink="false">d5c339cb-1d84-467c-9b95-f90c32af1717</guid>
+            <pubDate>Fri, 15 Jan 2016 17:35:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Placeholder]]></title>
-            <description><![CDATA[<h1>Placeholder</h1>]]></description>
-            <link>undefinedplaceholder/index.html</link>
+            <description><![CDATA[<article><h1>Placeholder</h1><p>No posts yet, but go see what this is all about.</p></article>]]></description>
+            <link>http://blag.attaboy.me/placeholder/index.html</link>
             <guid isPermaLink="false">c2e873d8-b432-41f1-a70b-891263701e40</guid>
             <pubDate>Thu, 14 Jan 2016 16:28:04 GMT</pubDate>
         </item>
