@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:35:41.832Z'
-dateModified: '2016-01-15T17:35:27.249Z'
+datePublished: '2016-01-15T17:46:22.874Z'
+dateModified: '2016-01-15T17:42:38.090Z'
 title: "Let's get this bitch on the road"
 author: []
+sourcePath: _posts/2016-01-15-lets-get-this-bitch-on-the-road.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-lets-get-this-bitch-on-the-road.md
-published: true
 url: lets-get-this-bitch-on-the-road/index.html
 _type: Article
 
@@ -30,7 +30,7 @@ This blag is currently hosted on [The Grid][0], which is supposed to design your
 
 2\. AI is just generally very interesting to me, and I was excited to see how this one would perform.
 
-And that is why, almost a year ago, I impulsively paid about a hundred bucks for an account with a product that did not even exist yet. About two months back, I finally got a beta account, and yesterday (hey, I did say that I was lazy) I finally__got off my lazy arse and started actually using it. Yes, I am a slow starter, but when I do get started, I tend to follow through...
+And that is why, almost a year ago, I impulsively paid about a hundred bucks for an account with a product that did not even exist yet. About two months back, I finally got a beta account, and yesterday (hey, I did say that I was lazy) I finally __got off my lazy arse and started actually using it. Yes, I am a slow starter, but when I do get started, I tend to follow through...
 
 Or sometimes not.
 
