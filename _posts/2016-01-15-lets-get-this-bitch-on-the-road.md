@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:55:37.978Z'
-dateModified: '2016-01-15T17:55:27.899Z'
+datePublished: '2016-01-15T17:55:37.986Z'
+dateModified: '2016-01-15T17:55:37.642Z'
 title: "Let's get this bitch on the road"
 author: []
 sourcePath: _posts/2016-01-15-lets-get-this-bitch-on-the-road.md
