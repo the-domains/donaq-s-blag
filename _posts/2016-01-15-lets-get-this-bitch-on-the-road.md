@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T17:52:04.029Z'
-dateModified: '2016-01-15T17:52:03.283Z'
+datePublished: '2016-01-15T17:55:37.642Z'
+dateModified: '2016-01-15T17:55:27.899Z'
 title: "Let's get this bitch on the road"
 author: []
 sourcePath: _posts/2016-01-15-lets-get-this-bitch-on-the-road.md
@@ -39,7 +39,9 @@ I am also very inconsistent. But hey, at least I am _reliably_ inconsistent. Tha
 Anyway, in the interest of putting this AI through its paces, I shall try to stick a couple of arbitrary images in this post. Let us see how it handles it.
 ![Mmm... beer...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e707d4b1-a854-4608-b5e2-2a530ad82e03.jpg)
 
-That's me, in the [office][2]. As you can see, I was born with a physical defect. Instead of proper human hands, I have beers. They used to laugh at me in school when I was younger and they were just Jolly Shandy hands, but when we turned 18 and they matured... well, let's just say that my beer hands became really popular really fast. It was a little depressing, in a way. There were a couple of girls who used to be really mean to me, but suddenly, all they wanted to do was to hold my beer hand and chug from it. At one point, I was so popular that I even had a girl chugging from each hand. I will admit that it was flattering at first, but when I realised that they cared only about my beer hands and the chugging and not about me as a person, I just had to put the caps back on.
+That's me, in the [office][2]. 
+
+As you can see, I was born with a physical defect. Instead of proper human hands, I have beers. They used to laugh at me in school when I was younger and they were just Jolly Shandy hands, but when we turned 18 and they matured... well, let's just say that my beer hands became really popular really fast. It was a little depressing, in a way. There were a couple of girls who used to be really mean to me, but suddenly, all they wanted to do was to hold my beer hand and chug from it. At one point, I was so popular that I even had a girl chugging from each hand. I will admit that it was flattering at first, but when I realised that they cared only about my beer hands and the chugging and not about me as a person, I just had to put the caps back on.
 
 That was in no way a metaphor for something else. I am not that deep, ok? I have beers for hands.
 
@@ -60,6 +62,6 @@ Later, however, I grew a little defiant at society.
 
 No, they do not. Mangas do not have blood. Still, who are they indeed? I think who you love is exclusively your own business. I love my wife because even though she is a manga, she is a good person. I think the world could do with more manga-beer hand couples.
 
-[0]: thegrid.io
+[0]: https://thegrid.io/
 [1]: http://threevirtues.com/
 [2]: http://nugit.co/
