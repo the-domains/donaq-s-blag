@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T16:55:31.483Z'
-dateModified: '2016-01-17T16:55:26.830Z'
+datePublished: '2016-01-17T16:55:32.197Z'
+dateModified: '2016-01-17T16:55:31.483Z'
 title: 'Sadly, I must go, but I may be back'
 author: []
 sourcePath: _posts/2016-01-17-sadly-i-must-go.md
